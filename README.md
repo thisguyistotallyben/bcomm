@@ -1,0 +1,2 @@
+# bcomm
+Handles interprocess communications
